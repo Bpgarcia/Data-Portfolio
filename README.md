@@ -7,7 +7,7 @@ Currently, I'm developing my graduation thesis on applying machine learning mode
 
 In my free time, I enjoy exploring public datasets, learning new tools and working on personal development.
 
-This GitHub portfolio is a space to showcase my projects, share knowledge, and track my progress in the fields of Data Analytics and Data Science.
+This portfolio is a space to showcase my projects, share knowledge, and track my progress in the fields of Data Analytics and Data Science.
 ## Table of Contents
 ### Automated Data Preparation and Reporting of Inbound Calls
 Code: [automation_calls.ipynb](https://github.com/Bpgarcia/Data-Portfolio/blob/main/automation_calls.ipynb)
@@ -22,4 +22,4 @@ Skills: automation scripting, data preprocessing, report generation.
 Technology: Python, Pandas, Selenium.
 
 Results:
-The automation eliminated the need for manual data handling and email creation, saving several hours per week and ensuring that team members received consistent, timely reports with up-to-date call insights
+The automation eliminated the need for manual data handling, saving several hours per week and ensuring that team members received consistent and timely reports with up-to-date call insights
