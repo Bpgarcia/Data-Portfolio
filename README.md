@@ -9,6 +9,7 @@ In my free time, I enjoy exploring public datasets on Kaggle, learning new tools
 
 This GitHub portfolio is a space to showcase my projects, share knowledge, and track my progress in the fields of Data Analytics and Data Science.
 ## Table of Contents
+### Automated Data Preparation and Reporting of Inbound Calls
 Code: [automation_calls.ipynb](https://github.com/Bpgarcia/Data-Portfolio/blob/main/automation_calls.ipynb)
 
 Goal: Automate the creation and distribution of a daily call report to stakeholders, reducing manual work and improving report consistency
