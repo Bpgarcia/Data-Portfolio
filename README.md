@@ -5,7 +5,7 @@ In my professional journey, I’ve worked with tools like Python, SQL, Power BI,
 
 Currently, I'm developing my graduation thesis on applying machine learning models to real estate price prediction — a project that reflects my growing interest in AI and predictive analytics.
 
-In my free time, I enjoy exploring public datasets on Kaggle, learning new tools, playing guitar, and working on personal development.
+In my free time, I enjoy exploring public datasets on Kaggle, learning new tools and working on personal development.
 
 This GitHub portfolio is a space to showcase my projects, share knowledge, and track my progress in the fields of Data Analytics and Data Science.
 ## Table of Contents
