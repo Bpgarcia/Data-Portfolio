@@ -15,7 +15,7 @@ Code: [automation_calls.ipynb](https://github.com/Bpgarcia/Data-Portfolio/blob/m
 Goal: Automate the creation and distribution of a daily call report to stakeholders, reducing manual work and improving report consistency
 
 Description:
-This project that i developed for a company automates the entire reporting process for inbound calls in a business environment. The script loads raw call data from a website, extracting data and transforming it for the report that is delivered to all stakeholders.
+This project was developed for a company automates the entire reporting process for inbound calls in a business environment. The script loads raw call data from a website, extracting data and transforming it for the report that is delivered to all stakeholders.
 
 Skills: automation scripting, data preprocessing, report generation.
 
